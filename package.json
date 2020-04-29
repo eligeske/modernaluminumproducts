@@ -1,0 +1,26 @@
+{
+  "name": "modernaluminumproducts.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eligeske/modernaluminumproducts.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eligeske/modernaluminumproducts.com/issues"
+  },
+  "homepage": "https://github.com/eligeske/modernaluminumproducts.com#readme",
+  "devDependencies": {
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
